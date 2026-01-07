@@ -1,0 +1,7 @@
+a = 10
+b = 5
+
+sum = a + b
+diff = a - b
+
+print(f"Addition: {sum}, Subtraction: {diff}")
