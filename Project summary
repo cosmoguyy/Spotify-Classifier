@@ -1,0 +1,9 @@
+Data Collection:        You will work with Spotify datasets or use the Spotify API to gather audio features of songs like tempo, energy, valence, and danceability.
+
+Foundational Learning:  You will start by learning Python basics and using libraries like pandas and matplotlib to explore and visualize the data.
+
+Data Pipeline:          You will go through the full data science pipeline, which includes data cleaning, exploratory data analysis (EDA), and feature engineering.
+
+Model Building:         You will build a machine learning model designed to predict and classify the "mood" of a song based on its musical characteristics.
+
+Application:            The final goal is to create a working model and potentially a small web app that can classify songs by mood and recommend "vibe-based" playlists.
