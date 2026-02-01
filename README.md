@@ -26,7 +26,8 @@ The dataset contains numerical audio features such as:
 
 The project Covers the Level 1 Basic from Loading the data to Analysing distribution of energy tempo and danceability to Visualizing the data feature to Training and testing The machine model to know about the unseen song features or mood classification.
 
-
+-Raunak Raj
+-Spotify Songs Classifier.
 
 
 
