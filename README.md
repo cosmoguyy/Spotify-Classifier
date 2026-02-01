@@ -3,4 +3,25 @@ hey Raunak Raj this side , Swinging my legs in Engineering Physics Department. T
 
 My Repo includes some of the codes i have been doing to learn basic syntax for assignment usage.
 
-The project revolves around the classification of music using music key audio features. Dataset from Spotify Audio Features is used to classify genre/mood and classify new song their mood and genre.
+The project revolves around the classification of music using music key audio features. Dataset from Spotify Audio Features is used to classify genre/mood and groups new song their mood and genre.
+
+It Analyzes the statistical distribution of musical characteristics across the dataset.
+
+The Notebook Link for final project is: https://colab.research.google.com/drive/1TiYluBPkczZq-IgbvgUkPWslAZinIpfN?usp=sharing
+
+The Link for Keggle Sotify dataset is
+https://www.kaggle.com/datasets/tomigelo/spotify-audio-features
+For training and testing , SpotifyAudioFeaturesNov2018.csv is used.
+The dataset contains numerical audio features such as:
+• Danceability
+• Energy
+• Loudness
+• Speechiness
+• Acousticness
+• Instrumentalness
+• Liveness
+•Valence
+• Tempo
+• Genre / Popularity labels.
+
+The project Covers the Level 1 Basic.
